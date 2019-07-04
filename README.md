@@ -1,6 +1,6 @@
 # Portfolio Vincent Sijben
 
-Hi there! Here you can find some of my digital work I've been working on over the last few years. 
+Hi there! This is a portfolio example page for my students. Here you can find some of my digital work I've been working on over the last few years. 
 
 * link 1
 * link 2
