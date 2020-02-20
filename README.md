@@ -9,4 +9,4 @@ Hi there! This is a portfolio example page for my students. Here you can find so
 ## Gen Art
 In year 1 we had to create digital art based on a rule set. We've used the arduino as a control mechanism for our Processing-based software. Click on the thumbnail below to go to the online version.
 
-View my project [https://vincentsijben.github.io/portfolio](online). 
+View my project [online](https://vincentsijben.github.io/portfolio). 
